@@ -1,6 +1,4 @@
----
-
-## **KasSaku – A Simple Cash Management App**
+## KasSaku – A Simple Cash Management App
 
 ### **Deskripsi Singkat**
 
