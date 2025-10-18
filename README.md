@@ -120,7 +120,7 @@ npm start
 Buka terminal baru di folder utama, lalu:
 
 ```bash
-npm start
+npm run dev
 ```
 
 > Frontend akan berjalan di: `http://localhost:3000`
