@@ -129,8 +129,8 @@ npm start
 
 ## **Login Default**
 
-* **Username:** admin
-* **Password:** admin
+* **Username:** rangga
+* **Password:** 123456
 
 > Login ini bisa diubah sesuai kebutuhan (sistem login sederhana, belum terhubung ke database user).
 
