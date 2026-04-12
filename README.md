@@ -2,7 +2,7 @@
 
 ### **Deskripsi Singkat**
 
-**KasSaku** adalah aplikasi pencatatan keuangan sederhana berbasis web yang membantu pengguna dalam memantau **pemasukan (income)** dan **pengeluaran (expense)**.
+**KasSaku** adalah pencatatan keuangan sederhana berbasis web yang membantu pengguna dalam memantau **pemasukan (income)** dan **pengeluaran (expense)**.
 Aplikasi ini dilengkapi dengan **fitur laporan keuangan**, **filter data**, **chart visualisasi transaksi**, serta **autentikasi login**.
 
 ---
