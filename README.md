@@ -26,13 +26,13 @@ Aplikasi ini dilengkapi dengan **fitur laporan keuangan**, **filter data**, **ch
 
 ## **Fitur Utama**
 
-✅ Dashboard dengan grafik transaksi
-✅ Filter transaksi berdasarkan tipe & tanggal
-✅ Top 5 transaksi terbesar
-✅ Peringatan otomatis saat pengeluaran melebihi pemasukan
-✅ CRUD transaksi (tambah, edit, hapus)
-✅ Login sistem sederhana (dengan penyimpanan status login di localStorage)
-✅ Responsive design (mobile & desktop)
+* Dashboard dengan grafik transaksi
+* Filter transaksi berdasarkan tipe & tanggal
+* Top 5 transaksi terbesar
+* Peringatan otomatis saat pengeluaran melebihi pemasukan
+* CRUD transaksi (tambah, edit, hapus)
+* Login sistem sederhana (dengan penyimpanan status login di localStorage)
+* Responsive design (mobile & desktop)
 
 ---
 
