@@ -44,7 +44,7 @@ kas-saku/
 │  ├─ server.js          # Entry point backend
 │  ├─ routes/            # Routing API
 │  ├─ models/            # Schema MongoDB
-│  ├─ .env               # File environment (JANGAN diupload)
+│  ├─ .env               # File environment
 │  ├─ .env.example       # Contoh environment
 │  └─ package.json
 │
